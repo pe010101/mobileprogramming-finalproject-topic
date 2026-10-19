@@ -24,9 +24,9 @@ SoundShades is a mobile application where users can listen to a song, draw a pix
 
 ## Mockups
 
-1. **Home Feed:** A 2-column layout showing cards of pixel art with song titles.
-2. **Drawing Screen:** A large pixel grid in the center, a color palette at the bottom, the currently playing song title at the top, and a "Publish" button.
-3. **Post Details:** A large view of the artwork, the song details, and a comments section.
+<img width="3508" height="2480" alt="Untitled_Artwork 7" src="https://github.com/user-attachments/assets/b9a42dfd-3be2-4f01-b53c-dd78901053d6" />
+
 
 ## Grade Aspiration: 5
 This project targets Grade 5 by fulfilling all course requirements
+
