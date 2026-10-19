@@ -1,9 +1,9 @@
-# SoundShades
+# Project Topic: SoundShades 
 
-An app where you draw pixel art about how a song makes you feel, and share it with others.
+An app where you draw art about how a song makes you feel, and share it with others.
 
 ## Project Description
-SoundShades is a mobile application where users can listen to a song, draw a pixel-art representation of how that song feels to them, and publish it to a public feed. Other users can browse the artwork, see what song inspired it, and interact with the posts.
+SoundShades is a mobile application where users can listen to a song, draw a representation of how that song feels to them, and publish it to a public feed. Other users can browse the artwork, see what song inspired it, and interact with the posts.
 
 ## Technologies
 - **Framework:** React Native with Expo (TypeScript)
@@ -15,12 +15,12 @@ SoundShades is a mobile application where users can listen to a song, draw a pix
 
 ## Main Features
 - **User Authentication:** Secure register and login using Firebase Auth.
-- **Drawing Canvas:** A touch-based pixel grid where users can draw using a selected color palette.
+- **Drawing Canvas:** Possibly a touch-based pixel grid where users can draw or some alternative canvas.
 - **Song Integration:** Users select a song (title/artist) to listen to while drawing, which is then attached to the artwork.
-- **Pinterest-Style Feed:** A masonry grid displaying pixel art created by all users, showing the art, song title, and author.
+- **Feed:** A masonry grid displaying pixel art created by all users, showing the art, song title, and author.
 - **Social Interactions:** Like and comment on other users' posts.
 - **Profile Page:** A personal gallery showing the user's own published artwork.
-- **Offline Drafts:** Ability to save unfinished artwork locally using AsyncStorage and publish it later.
+- **Drafts:** Ability to save unfinished artwork locally using AsyncStorage and publish it later.
 
 ## Mockups
 
@@ -28,5 +28,5 @@ SoundShades is a mobile application where users can listen to a song, draw a pix
 
 
 ## Grade Aspiration: 5
-This project targets Grade 5 by fulfilling all course requirements
+This project targets Grade 5 by fulfilling all course requirements.
 
